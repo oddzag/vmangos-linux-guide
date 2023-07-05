@@ -1,4 +1,4 @@
-This wiki was created for those who want to use Linux (Debian) to host a VMaNGOS server. Step-by-step instructions are surprisingly in short supply, so I decided to write this as I figured out VMaNGOS myself.
+This guide was created for those who want to use Linux (Debian) to host a VMaNGOS server. Step-by-step instructions are surprisingly in short supply, so I decided to write this as I figured out VMaNGOS myself.
 
 `*` - optional
 
